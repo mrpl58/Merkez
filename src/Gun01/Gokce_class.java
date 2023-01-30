@@ -6,5 +6,7 @@ public class Gokce_class {
 
 
         System.out.println("Gökçe 2. deneme");
+
+        System.out.println("3. deneme");
     }
 }
