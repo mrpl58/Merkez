@@ -11,6 +11,8 @@ public class Proje1 {
 
         System.out.println("Gökçe'den Merhaba 4");
 
+        System.out.println("Gökçe'den Merhaba 5");
+
 
 
 
