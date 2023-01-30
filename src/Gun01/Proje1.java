@@ -9,6 +9,11 @@ public class Proje1 {
 
         System.out.println("Merhaba 3");
 
+        System.out.println("Gökçe'den Merhaba 4");
+
+
+
+
 
 
     }
